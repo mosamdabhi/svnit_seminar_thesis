@@ -1,0 +1,29 @@
+\contentsline {chapter}{Declaration of Authorship}{i}{dummy.1}
+\vspace {1em}
+\contentsline {chapter}{Abstract}{iii}{dummy.2}
+\vspace {1em}
+\contentsline {chapter}{Acknowledgements}{iv}{dummy.3}
+\vspace {1em}
+\contentsline {chapter}{List of Figures}{vi}{dummy.5}
+\contentsline {chapter}{List of Tables}{vii}{dummy.7}
+\vspace {2em}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.9}
+\contentsline {section}{\numberline {1.1}Background motivation and need for this survey study}{1}{section.10}
+\contentsline {section}{\numberline {1.2}Related Work}{2}{section.11}
+\contentsline {section}{\numberline {1.3}Modelling and System Identification}{3}{section.12}
+\contentsline {section}{\numberline {1.4}Avoiding Obstacles}{5}{section.19}
+\contentsline {section}{\numberline {1.5}Safety of the Entire Trajectory}{6}{section.20}
+\contentsline {chapter}{\numberline {2}Technical Approach}{9}{chapter.23}
+\contentsline {section}{\numberline {2.1}Generating Convex Regions of Safe Space}{9}{section.27}
+\contentsline {section}{\numberline {2.2}Searching over Assignments of Polynomials to Regions}{10}{section.28}
+\contentsline {section}{\numberline {2.3}Restricting a Polynomial to a Polytope}{11}{section.31}
+\contentsline {section}{\numberline {2.4}Choosing Objective Function}{13}{section.46}
+\contentsline {section}{\numberline {2.5}Handling Lower-Degree Trajectories}{15}{section.59}
+\contentsline {section}{\numberline {2.6}Complete Formulation}{16}{section.60}
+\contentsline {chapter}{\numberline {3}Conclusion}{18}{chapter.64}
+\contentsline {section}{\numberline {3.1}Limitations}{18}{section.65}
+\contentsline {section}{\numberline {3.2}Future Work}{19}{section.66}
+\vspace {2em}
+\contentsline {chapter}{\numberline {A}An Appendix}{20}{appendix.67}
+\vspace {2em}
+\contentsline {chapter}{Bibliography}{21}{dummy.68}

@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Thesis.aux
+The style file: unsrtnat.bst
+Database file #1: Bibliography.bib
+Repeated entry---line 191 of file Bibliography.bib
+ : @article{aps2014mosek
+ :                      ,
+I'm skipping whatever remains of this entry
+Warning--empty booktitle in hao2005differential
+Warning--empty journal in richardsco
+Warning--empty year in richardsco
+Warning--empty year in richardsco
+Warning--empty booktitle in richter2013polynomial
+Warning--empty year in richter2013polynomial
+Warning--empty year in richter2013polynomial
+You've used 24 entries,
+            2481 wiz_defined-function locations,
+            668 strings with 8143 characters,
+and the built_in function-call counts, 9594 in all, are:
+= -- 899
+> -- 334
+< -- 29
++ -- 144
+- -- 94
+* -- 565
+:= -- 1382
+add.period$ -- 77
+call.type$ -- 24
+change.case$ -- 43
+chr.to.int$ -- 22
+cite$ -- 31
+duplicate$ -- 586
+empty$ -- 922
+format.name$ -- 132
+if$ -- 2186
+int.to.chr$ -- 3
+int.to.str$ -- 25
+missing$ -- 19
+newline$ -- 124
+num.names$ -- 72
+pop$ -- 261
+preamble$ -- 1
+purify$ -- 24
+quote$ -- 0
+skip$ -- 412
+stack$ -- 0
+substring$ -- 425
+swap$ -- 183
+text.length$ -- 12
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 165
+warning$ -- 7
+while$ -- 81
+width$ -- 0
+write$ -- 310
+(There was 1 error message)

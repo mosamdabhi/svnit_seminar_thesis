@@ -1,0 +1,17 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Model of the quadrotor used, the Crazyflie Nano Quadcopter, and the body frame used in the differentially flat model. $\boldsymbol {z_{B}}$ points in the same direction as propellers at all the time.\relax }}{4}{figure.caption.13}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces A piecewise linear trajectory between two points, with obstacle avoidance enforced only at 4 points along each trajectory. The continuous trajectory through those points may cut corners or pass through thin obstacles.\relax }}{7}{figure.caption.21}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces A trajectory in which each linear segment is required to remain en- tirely within one of the convex obstacle-free regions indicated by the colored boxes. This requirement ensures that the entire trajectory is collision-free.\relax }}{7}{figure.caption.22}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Solving a simple environment with IRIS regions. A random environment is constructed with obstacles and a start and goal pose (a), then generate IRIS regions around the start (b) and goal (c). Next, a point is identified far from the existing set of obstacles and IRIS regions and a new region is generated from the seed point there (d)\relax }}{14}{figure.caption.49}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{14}{figure.caption.49}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{14}{figure.caption.49}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{14}{figure.caption.49}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{14}{figure.caption.49}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces The above process through which we obtained (d) is repeated until we have 4 regions (e). Finally, we solve for trajectories of $1^{st}$-degree polynomials minimizing squared velocity in 0.1s (f), $3^{rd}$-degree polynomials minimizing squared jerk in 0.3s (g), and $5^{th}$-degree polynomials minimizing squared snap in 1.0s (h). All trajectories lie entirely within the convex regions shown.\relax }}{15}{figure.caption.54}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{15}{figure.caption.54}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{15}{figure.caption.54}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{15}{figure.caption.54}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{15}{figure.caption.54}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
